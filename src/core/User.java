@@ -1,4 +1,4 @@
-package academy;
+package core;
 
 import java.util.Objects;
 
