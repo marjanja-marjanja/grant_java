@@ -1,7 +1,6 @@
-package academy;
+package academy.server;
 
-/*Класс для представления ответа сервера на любой запрос.
-Содержит код ответа (200 - успех, 400 - ошибка) и строку данных.*/
+/*Класс для представления ответа сервера на любой запрос.*/
 
 public class ServerResponse {
     private final int responseCode;
